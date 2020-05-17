@@ -12,3 +12,7 @@
 - [Expo](https://expo.io/)
 - [Express](https://expressjs.com/pt-br/)
 - [React](https://pt-br.reactjs.org/)
+
+<img src="https://github.com/joaomiiiguel/be-the-hero/blob/master/Screen/telaLogin.png">
+<img src="https://github.com/joaomiiiguel/be-the-hero/blob/master/Screen/telaCadastro.png">
+<img src="https://github.com/joaomiiiguel/be-the-hero/blob/master/Screen/telaDashboard.png">
